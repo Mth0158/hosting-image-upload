@@ -11,6 +11,7 @@ gem "sprockets-rails"
 gem "bootstrap", "~> 5.2"
 gem "simple_form"
 gem "sassc-rails" # Uncomment this line
+gem "dotenv-rails"
 
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
